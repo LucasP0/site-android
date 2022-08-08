@@ -133,9 +133,9 @@ footer
 @media screen and (max-width:860px) {
   nav {text-align: center;
     text-indent: 0px;}
+    footer{font-size: 14px;}
     main {margin:0px}
     .dan{width: 100%;}
     .agora {width: 100%;}
     iframe{width: 100%;}
-    .h3 {margin: auto;
-    width: auto;}}
+    .h3 {width: auto;}}
