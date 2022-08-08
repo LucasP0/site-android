@@ -130,12 +130,6 @@ footer
    text-align: center;}
 
 
-
-
-@media screen and (max-width:660px) 
-    {.h3 {height: 650px;}
-    }
-
 @media screen and (max-width:760px) {
   nav {text-align: center;
     text-indent: 0px;}
