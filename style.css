@@ -133,19 +133,18 @@ footer
 
 
 @media screen and (max-width:660px) 
-    {.h3 {height: 650px;}}
+    {.h3 {height: 650px;}
+    }
 
 @media screen and (max-width:760px) {
   nav {text-align: center;
     text-indent: 0px;}
     main {margin:0px}
     .dan{width: 100%;}
-    .agora {width: 100%;}
     iframe{width: 100%;
     margin: auto;}}
 
 @media screen and (max-width:820px) {
-    main {margin:0px;}
     iframe {width: 400px;
         height: 200px;}
     .h3 {margin: auto;
