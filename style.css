@@ -2,9 +2,7 @@
 @font-face 
     {font-family:'idroid';
     src: url('fontes/idroid.otf');}
-html 
-    {margin: 0px;
-    padding: 0px;}
+
 body 
     {background-color: #869f3424;
     margin: 0px;
@@ -54,7 +52,7 @@ nav > a:hover
 
 main 
     {background-color: white;
-    margin: 0px 150px 0px 150px;
+    
     text-align:justify;
     box-shadow: 1px 5px 1px rgba(0, 0, 0, 0.673);}
 
