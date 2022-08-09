@@ -130,7 +130,7 @@ footer
 
 
 
-@media screen and (max-width:860px) {
+@media screen and (max-width:1140px) {
   nav {text-align: center;
     text-indent: 0px;}
     footer{font-size: 14px;}
