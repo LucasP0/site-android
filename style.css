@@ -16,7 +16,7 @@ header
     color: white;
     box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.125);
     margin: 0px;}
-
+/* começa header */
 h1 
     {font-size: 35px;}
 
@@ -49,6 +49,7 @@ nav > a
 nav > a:hover
     {text-decoration: underline;
     color:#D5FF4A ;}
+/* termina o header */
 
 main 
     {background-color: white;
@@ -120,13 +121,19 @@ iframe
     {color: white;
     margin: 0px;
     text-align: center;}
+/* termina o main  */
 
 footer 
     { background-color:#637A17;
     font-family: 'idroid';  
    text-align: center;}
 
-
+ footer  #linkgit
+    {text-decoration: none;
+    color:white; }
+footer #linkgit:hover 
+    {color:  black;}
+   
 
 
 @media screen and (max-width:1140px) {
